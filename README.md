@@ -16,7 +16,7 @@ MapReduce is a programming model designed for processing and generating large da
       Aggregates and computes final results for each key from the grouped data.
 
 ## Example Workflow
-###Input:
+### Input:
 "pizza burger pasta pasta pizza"
 
 ### After Shuffle:

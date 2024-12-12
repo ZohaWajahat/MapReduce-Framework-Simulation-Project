@@ -33,6 +33,6 @@ MapReduce is a programming model designed for processing and generating large da
 ### Deliverables
 1. A complete C/C++ program implementing the MapReduce framework.
 2. A flow diagram or activity diagram illustrating the approach, along with a detailed explanation of the code.
-3. Test cases showcasing the functionality of the framework.
-4. 
+3. Test cases showcasing the functionality of the framework
+
 This project aims to provide a hands-on experience with core operating system principles and offers a simplified perspective on how MapReduce operates in distributed systems. It emphasizes understanding over completion, encouraging students to engage deeply with the problem-solving process.
